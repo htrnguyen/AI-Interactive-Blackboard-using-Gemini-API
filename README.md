@@ -48,3 +48,7 @@ Open your browser and go to [http://localhost:8501](http://localhost:8501) to vi
 Draw or write on the blackboard and click "Send to AI" to send the image to the AI and receive a classified response based on the content.
 
 For more information on the Gemini API, refer to the [Gemini API Documentation](https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=python).
+
+## Demo
+
+[![Demo Video](http://img.youtube.com/vi/sWyMG4DSB-s/0.jpg)](http://www.youtube.com/watch?v=sWyMG4DSB-s "Demo Video")
